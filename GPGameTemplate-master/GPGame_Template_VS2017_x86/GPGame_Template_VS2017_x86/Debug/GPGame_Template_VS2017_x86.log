@@ -1,0 +1,5 @@
+﻿  Astar.cpp
+c:\users\amina\desktop\astarsearch\astar\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\astar.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amina\desktop\astarsearch\astar\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\astar.cpp(229): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\amina\desktop\astarsearch\astar\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\astar.cpp(292): warning C4018: '<': signed/unsigned mismatch
+  GPGame_Template_VS2017_x86.vcxproj -> C:\Users\Amina\Desktop\Astarsearch\astar\GPGameTemplate-master\GPGame_Template_VS2017_x86\Debug\GPGame_Template_VS2017_x86.exe
